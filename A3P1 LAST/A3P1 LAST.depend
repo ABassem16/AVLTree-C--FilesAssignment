@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1526246059 source:c:\users\lenovo\desktop\new folder\part3_task3\a3p1 last\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<bits/stdc++.h>
+
+1526246274 source:c:\users\user\downloads\a3_20160008_20160053_20160235\a3p1 last\main.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	<fstream>
+	<string>
+	<cstring>
+	<bits/stdc++.h>
+
